@@ -1,4 +1,4 @@
-# mdjs文档 by guoruiling
+# mdjs文档 change
 
 一个纯洁的`md`文档在线浏览，`md`是指`markdown`
 
